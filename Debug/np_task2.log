@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (np_task2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  np_task2.cpp
+e:\git\repositories\sampleprojects\paintsimulator\np_task2.cpp(277): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+e:\git\repositories\sampleprojects\paintsimulator\np_task2.cpp(289): warning C4018: '<': signed/unsigned mismatch
+e:\git\repositories\sampleprojects\paintsimulator\np_task2.cpp(294): warning C4018: '<': signed/unsigned mismatch
+e:\git\repositories\sampleprojects\paintsimulator\np_task2.cpp(305): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+e:\git\repositories\sampleprojects\paintsimulator\np_task2.cpp(348): warning C4018: '<': signed/unsigned mismatch
+e:\git\repositories\sampleprojects\paintsimulator\np_task2.cpp(372): warning C4018: '<': signed/unsigned mismatch
+e:\git\repositories\sampleprojects\paintsimulator\np_task2.cpp(400): warning C4018: '<': signed/unsigned mismatch
+e:\git\repositories\sampleprojects\paintsimulator\np_task2.cpp(406): warning C4018: '<': signed/unsigned mismatch
+e:\git\repositories\sampleprojects\paintsimulator\np_task2.cpp(419): warning C4101: 'selected': unreferenced local variable
+  np_task2.vcxproj -> E:\git\repositories\sampleProjects\PaintSimulator\Debug\PaintSimulator.exe
+  np_task2.vcxproj -> E:\git\repositories\sampleProjects\PaintSimulator\Debug\PaintSimulator.pdb (Full PDB)
